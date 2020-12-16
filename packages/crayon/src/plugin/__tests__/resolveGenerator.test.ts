@@ -23,6 +23,7 @@ const generatorsList: Array<[keyof typeof generators, Generator]> = [
   ['paddingRight', generators.paddingRight],
   ['paddingBottom', generators.paddingBottom],
   ['paddingLeft', generators.paddingLeft],
+  ['textJustify', generators.textJustify],
   ['width', generators.width],
   ['textTransform', generators.textTransform],
 ]
