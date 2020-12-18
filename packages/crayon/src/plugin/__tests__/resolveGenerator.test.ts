@@ -26,6 +26,7 @@ const generatorsList: Array<[keyof typeof generators, Generator]> = [
   ['paddingBottom', generators.paddingBottom],
   ['paddingLeft', generators.paddingLeft],
   ['stroke', generators.stroke],
+  ['strokeWidth', generators.strokeWidth],
   ['textAlign', generators.textAlign],
   ['textDecoration', generators.textDecoration],
   ['textTransform', generators.textTransform],
